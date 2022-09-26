@@ -3,9 +3,9 @@ For this task I have taken two CSVs named "schools complete" and "students compl
 
 From this dataframe I have extracted all other data. 
 Topics covered include:
-  Dataframe Merging
-  GroupBy
-  Dataframe formatting 
+  Dataframe Merging/n
+  GroupBy/n
+  Dataframe formatting/n
   Binning 
   
 ### Additional Comments 
